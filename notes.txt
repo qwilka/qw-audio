@@ -1,0 +1,27 @@
+
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API
+https://github.com/mdn/webaudio-examples
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Using_Web_Audio_API   tutorial
+
+
+https://github.com/katspaugh/wavesurfer.js/
+https://wavesurfer.xyz/
+https://github.com/netteNz/web-audio-app
+
+
+https://towardsdatascience.com/audio-spectrogram-transformers-beyond-the-lab/
+
+https://www.openacousticdevices.info/audiomoth
+
+
+https://www.openacousticdevices.info/
+https://github.com/OpenAcousticDevices/Application-Notes
+https://github.com/OpenAcousticDevices/Application-Notes/blob/master/Using_HydroMoth_to_Make_Underwater_Recordings/Using_HydroMoth_to_Make_Underwater_Recordings.pdf
+
+https://scikit-maad.github.io/index.html  quantitative analysis of environmental audio recordings
+https://github.com/scikit-maad/scikit-maad
+https://scikit-maad.github.io/_auto_examples/2_advanced/plot_extract_alpha_indices.html
+
+https://webaudioapi.com/book/
+https://webaudioapi.com/samples/
+
